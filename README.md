@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Krat-s
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Matheus, my friends call me Kratos 🎮
+- 👀 I’m interested in learning fullstack 
+- 🌱 I’m currently learning back-end
 - 📫 How to reach me; 55 (62) 9 8143-6831; matheusgto02018@gmail.com;
 
 <!---
