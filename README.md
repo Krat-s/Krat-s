@@ -1,5 +1,5 @@
 <p aling="center">
-<img src="./City - future" alt="Wallpaper" width="100%" />
+<img src="./City - future.jpg" alt="Wallpaper" width="100%" />
 </p>
 
 - 👋 Hi, I’m Matheus, my friends call me Kratos 🎮
